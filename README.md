@@ -34,7 +34,7 @@ A full-stack web application that allows users to browse fashion products, add i
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/online-clothing-store-system.git
+git clone (https://github.com/thinukahettigedara/Online-Clothing-Store-System.git)
 
 # Navigate to project folder
 cd online-clothing-store-system
